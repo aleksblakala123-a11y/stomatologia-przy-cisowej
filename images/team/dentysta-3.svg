@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 600" role="img" aria-labelledby="t3 d3">
+  <title id="t3">Placeholder — zdjęcie lekarza</title>
+  <desc id="d3">Miejsce na zdjęcie portretowe lekarza. Do podmiany.</desc>
+  <rect width="500" height="600" fill="#eaf2f1"/>
+  <rect x="8" y="8" width="484" height="584" fill="none" stroke="#9db8b4" stroke-width="3" stroke-dasharray="12 8"/>
+  <circle cx="250" cy="230" r="90" fill="#d5e6e3"/>
+  <path d="M110,520 C110,410 170,350 250,350 C330,350 390,410 390,520 Z" fill="#d5e6e3"/>
+  <text x="250" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#6d8b86">TODO: zdjęcie lekarza</text>
+</svg>
